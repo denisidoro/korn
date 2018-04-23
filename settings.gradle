@@ -1,0 +1,4 @@
+rootProject.name = 'Korn'
+
+include ':android:app',
+        ':shared'
